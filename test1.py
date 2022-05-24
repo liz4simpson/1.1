@@ -5,4 +5,5 @@ name_user=input()
 print("Nice to meet you, " + name_user)
 print("Do you like this place?")
 question=input()
-
+print("Ohh, me too...")
+print("Okey, Goodbye!")
